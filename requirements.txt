@@ -3,3 +3,7 @@ pytesseract
 Pillow
 playwright
 requests
+
+Download
+Ollama
+Tesseract
