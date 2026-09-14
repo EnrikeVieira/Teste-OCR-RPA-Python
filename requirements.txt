@@ -1,0 +1,5 @@
+pandas
+pytesseract
+Pillow
+playwright
+requests
